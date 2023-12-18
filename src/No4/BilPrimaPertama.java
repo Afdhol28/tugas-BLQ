@@ -25,7 +25,7 @@ public class BilPrimaPertama {
 		        count++;
 		        System.out.println(num);
 		    }
-		    num++; //see if next number is prime or not.
+		    num++; 
 		}
 		
 	}

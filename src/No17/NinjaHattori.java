@@ -10,7 +10,7 @@ public class NinjaHattori {
 
 		System.out.print("Masukkan jalur ekspedisi : ");
 		String[] jalur = masukan.nextLine().toLowerCase().split(" ");
-
+		
 		int tinggi = 0;
 		int gunung = 0;
 		int lembah = 0;
