@@ -1,4 +1,4 @@
-package No19;
+package no19;
 
 import java.util.Iterator;
 import java.util.Scanner;

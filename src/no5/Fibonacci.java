@@ -1,4 +1,4 @@
-package No5;
+package no5;
 
 import java.util.Scanner;
 

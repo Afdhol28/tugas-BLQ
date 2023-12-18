@@ -1,4 +1,4 @@
-package No17;
+package n17;
 
 import java.util.Scanner;
 

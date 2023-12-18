@@ -1,4 +1,4 @@
-package No11;
+package no11;
 
 import java.util.Arrays;
 import java.util.Scanner;

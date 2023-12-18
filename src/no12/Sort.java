@@ -1,4 +1,4 @@
-package No12;
+package no12;
 
 public class Sort {
 
