@@ -6,7 +6,7 @@ public class Lilin {
 		// TODO Auto-generated method stub
 		int[] panjangLilin = { 3, 3, 9, 6, 7, 8, 23 };
 
-		int hasil = lilinPertamaHabisMeleleh(panjangLilin);
+		int hasil = lilinPertamaHabisMeleleh(panjangLilin); 
 
 		if (hasil != -1) {
 			System.out.println("Lilin yang paling pertama habis meleleh: Lilin ke-" + hasil);
